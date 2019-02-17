@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\AsuS\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\AsuS\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Dante's Project.-1487011459.00" t="ExcludeRecursive" />
-    <e p="C:\Users\AsuS\Documents\Vr_Project\Dante's Project" t="IncludeRecursive">
+    <e p="C:\Users\AsuS\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Dante's Project.1823175416.00" t="ExcludeRecursive" />
+    <e p="C:\Users\AsuS\Documents\Vr_Project\(fetch)\Dante's Project" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Move.cs" t="Include" />
+        <e p="Camera Mats" t="Include">
+          <e p="ScreenCutoutShader.shader" t="Include" />
+        </e>
         <e p="Oculus" t="Include">
           <e p="AudioManager" t="Include">
             <e p="Scenes" t="Include">
@@ -405,6 +407,7 @@
                   </e>
                   <e p="LocomotionController.cs" t="Include" />
                   <e p="LocomotionTeleport.cs" t="Include" />
+                  <e p="Move.cs" t="Include" />
                   <e p="TeleportAimHandler.cs" t="Include" />
                   <e p="TeleportAimHandlerLaser.cs" t="Include" />
                   <e p="TeleportAimHandlerParabolic.cs" t="Include" />
@@ -524,6 +527,7 @@
           <e p="VR" t="Include">
             <e p="Editor" t="Include">
               <e p="AndroidManifest.OVRSubmission.xml" t="Include" />
+              <e p="Oculus.VR.Editor.asmdef" t="Include" />
               <e p="OVRADBTool.cs" t="Include" />
               <e p="OVRBuild.cs" t="Include" />
               <e p="OVRDeviceSelector.cs" t="Include" />
@@ -541,6 +545,7 @@
             </e>
             <e p="license.txt" t="Include" />
             <e p="NOTICE.txt" t="Include" />
+            <e p="Oculus.VR.asmdef" t="Include" />
             <e p="Plugins" t="Include">
               <e p="placeholder.txt" t="Include" />
             </e>
@@ -567,6 +572,7 @@
                 <e p="OVRSandwichComposition.cs" t="Include" />
               </e>
               <e p="Editor" t="Include">
+                <e p="Oculus.VR.Scripts.Editor.asmdef" t="Include" />
                 <e p="OVRManagerEditor.cs" t="Include" />
                 <e p="OVROverlayDestRectEditor.shader" t="Include" />
                 <e p="OVROverlayEditor.cs" t="Include" />
@@ -631,6 +637,12 @@
               <e p="SimpleJSONUnity.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Ball.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+          <e p="Portal.cs" t="Include" />
+          <e p="scene_Manager.cs" t="Include" />
         </e>
       </e>
       <e p="Dante's Project.sln" t="IncludeFlat" />
